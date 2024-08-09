@@ -1,0 +1,21 @@
+/* container */
+.container-wrap {
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.decoration-pattern {
+    background-image: url(../images/pattern.png);
+}
+
+
+.wrap-edit-side {
+    background-color: #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+/* create */
+.container-create {
+    height: 100vh;
+}
+
